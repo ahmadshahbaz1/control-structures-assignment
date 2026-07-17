@@ -1,19 +1,17 @@
 # Control Structures Assignment — Computer Programming (Summer 2026)
 
 **Course:** Computer Programming
-**Section:** [Your Section, e.g. BSCS-2A]
-**Instructor:** [Instructor Name]
+**Section:** BS BIT
+**Instructor:** Mehreen Tariq
 **Department:** Department of Computer Science, Bahria University, Lahore Campus
 
 ## Group Members
 
 | Name | Roll Number | Folder |
 |---|---|---|
-| [Your Full Name] | [Your Roll No] | `student_name/` |
+| Ahmed Shahbaz | 03-109252-014 | `Ahmed_Shahbaz/` |
 
-> This submission is by a single student. Replace `student_name/` with your
-> actual name (e.g. `ali_hassan/`) and update the table above with your
-> real name and roll number before pushing to GitHub.
+> This submission is by a single student.
 
 ## Repository Structure
 
@@ -67,6 +65,6 @@ a menu choice) as suggested in the assignment brief, since this design suits
 ## How to Compile and Run Any File
 
 ```bash
-g++ -std=c++17 -o program student_name/P01_switch.cpp
+g++ -std=c++17 -o program Ahmed_Shahbaz/P01_switch.cpp
 ./program
 ```
